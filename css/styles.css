@@ -1,0 +1,76 @@
+table {
+    border: 5px solid grey;
+    width: 100%; min-width: 1000px
+}
+
+tbody {
+    color: white;
+    background-color: gray;
+}
+
+thead,
+tfoot {
+    background-color: lightgrey;
+}
+
+#textRed {
+    background-color: red;
+    color: white;
+}
+
+#textRed2 {
+    color: red;
+}
+
+#textGreen {
+    background-color: green;
+    color: white;
+}
+
+.textBlue {
+    background-color: blue;
+    color: white;
+}
+
+.textWhite {
+    color: white;
+}
+
+#box {
+    float: left;
+}
+
+#box1 {
+    text-align: right;
+    display: inline-block;
+    float: right
+}
+
+#box2 {
+    text-align: left;
+    display: inline-block;
+    float: left
+}
+
+.container {
+    border: 5px solid lightgrey;
+}
+
+.textAlign {
+    text-align: center;
+}
+
+.box3 {
+    padding-left: 100px;
+    float: left;
+}
+
+.box4 {
+    padding-left: 30px;
+    float: left;
+}
+
+.button {
+    background-color: lightblue;
+    border: 2px solid black;
+}
